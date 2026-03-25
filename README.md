@@ -1,5 +1,5 @@
 # 🛒 E-commerce Data Analysis Project
-
+Ecommerce_Dashboard.pdf
 ## 📌 Overview
 
 This project focuses on analyzing an e-commerce dataset using SQL and Excel to generate business insights such as sales performance, customer behavior, and product trends.
